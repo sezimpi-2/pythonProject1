@@ -46,6 +46,7 @@ def play_game():
 
     print(f"Игра завершена. Ваш итоговый капитал: ${money}")
 
+    print('До свидания!')
 
 if __name__ == "__main__":
     play_game()
